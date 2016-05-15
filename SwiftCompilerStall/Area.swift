@@ -80,7 +80,7 @@ public struct AreaAttributes {
 
 }
 
-extension ManagedArea {
+extension Area {
 
 	var attributes: [Attribute] {
 		return [

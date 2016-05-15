@@ -56,7 +56,7 @@ struct PropertyFeatureRelationships {
 
 }
 
-extension ManagedPropertyFeature {
+extension PropertyFeature {
 
 	var attributes: [Attribute] {
 		return [

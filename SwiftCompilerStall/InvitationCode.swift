@@ -53,7 +53,7 @@ public struct InvitationCodeAttributes {
 
 }
 
-extension ManagedInvitationCode {
+extension InvitationCode {
 
 	var attributes: [Attribute] {
 		return [

@@ -71,7 +71,7 @@ struct HomeRelationships {
 
 }
 
-extension ManagedHome {
+extension Home {
 
 	var attributes: [Attribute] {
 		return [

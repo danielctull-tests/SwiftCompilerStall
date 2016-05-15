@@ -65,7 +65,7 @@ struct PropertyFileRelationships {
 
 }
 
-extension ManagedPropertyFile {
+extension PropertyFile {
 
 	var attributes: [Attribute] {
 		return [

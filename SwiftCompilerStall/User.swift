@@ -59,7 +59,7 @@ struct UserRelationships {
 
 }
 
-extension ManagedUser {
+extension User {
 
 	var attributes: [Attribute] {
 		return [
